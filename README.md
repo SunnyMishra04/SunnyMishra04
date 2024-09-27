@@ -1,13 +1,13 @@
 <h1 align="center">👋, I'm Sunny</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnymishra04&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymishra04" /> </p>
 
-- 👨‍🎓 final year B.Tech CSE student at **ABESIT, Ghaziabad.**
+ 👨‍🎓 final year B.Tech CSE student at **ABESIT, Ghaziabad.**
 
-- 🛠️ Actively looking for **Internships and Full-time roles.**
+ 🛠️ Actively looking for **Internships and Full-time roles.**
 
-- 🧭 Currently exploring **DSA and DevOps.**
+ 🧭 Currently exploring **DSA and DevOps.**
 
-- 📫 Reach me here: **sunnymishra30012004@gmail.com**
+ 📫 Reach me here: **sunnymishra30012004@gmail.com**
 
 <!-- Place GIF here to make it more attractive -->
 <!-- Place GIF here to make it more attractive -->
