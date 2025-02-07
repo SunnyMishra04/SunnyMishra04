@@ -13,7 +13,7 @@
 <!-- Place GIF here to make it more attractive -->
 
 <p align="right">
-  <img src="https://media.giphy.com/media/k5gFAezWpyKImfUhlc/giphy.gif" alt="floating gif" style="max-width: 100%; height: auto;" />
+<!--   <img src="https://media.giphy.com/media/k5gFAezWpyKImfUhlc/giphy.gif" alt="floating gif" style="max-width: 100%; height: auto;" /> -->
 </p>
 
 ## 🌐 Socials:
@@ -36,18 +36,18 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
+<!--   <a href="https://www.prisma.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  </a>
+  </a> -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
+<!--   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
+  </a> -->
+<!--   <a href="https://vercel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
+  </a> -->
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
@@ -66,9 +66,9 @@
   <a href="https://reactrouter.com/" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   </a>
-  <a href="https://socket.io/" target="_blank">
+<!--   <a href="https://socket.io/" target="_blank">
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  </a>
+  </a> -->
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   </a>
@@ -78,9 +78,9 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </a>
-  <a href="https://redis.io/" target="_blank">
+<!--   <a href="https://redis.io/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  </a> 
+  </a>  -->
    <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
